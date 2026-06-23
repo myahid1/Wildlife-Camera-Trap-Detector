@@ -12,7 +12,7 @@ The project focuses on applying a real-world deep learning model, evaluating its
 
 | Animal Detection | Vehicle Detection |
 | --- | --- |
-| ![Animal Detection](outputs/figures/cat__59b93afb-23d2-11e8-a6a3-ec086b02610b.jpg) | ![Vehicle Detection](outputs/figures/car__59d8eae2-23d2-11e8-a6a3-ec086b02610b.jpg) |
+| ![Animal Detection](outputs/figures/cat__59b93afb-23d2-11e8-a6a3-ec086b02610b.jpg) | ![Vehicle Detection](outputs/figures/car__5a096955-23d2-11e8-a6a3-ec086b02610b.jpg) |
 
 ### Threshold Analysis
 
