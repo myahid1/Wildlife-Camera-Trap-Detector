@@ -1,0 +1,12 @@
+image_path,true_label_from_filename,num_detections,best_category,best_confidence,animal_detected,vehicle_detected,person_detected,true_class,correct,error_type
+data\raw\sample_images\bird__5a062f10-23d2-11e8-a6a3-ec086b02610b.jpg,bird,0,empty,0.0,False,False,False,animal,False,false_negative
+data\raw\sample_images\deer__59fe2293-23d2-11e8-a6a3-ec086b02610b.jpg,deer,0,empty,0.0,False,False,False,animal,False,false_negative
+data\raw\sample_images\empty__5968c0f9-23d2-11e8-a6a3-ec086b02610b.jpg,empty,1,animal,0.7121,True,False,False,empty,False,false_positive
+data\raw\sample_images\empty__5998cc43-23d2-11e8-a6a3-ec086b02610b.jpg,empty,1,animal,0.6017,True,False,False,empty,False,false_positive
+data\raw\sample_images\empty__5998ce2d-23d2-11e8-a6a3-ec086b02610b.jpg,empty,1,animal,0.6288,True,False,False,empty,False,false_positive
+data\raw\sample_images\empty__59b93a3c-23d2-11e8-a6a3-ec086b02610b.jpg,empty,1,animal,0.5226,True,False,False,empty,False,false_positive
+data\raw\sample_images\empty__59ddc31b-23d2-11e8-a6a3-ec086b02610b.jpg,empty,2,animal,0.6098,True,False,False,empty,False,false_positive
+data\raw\sample_images\empty__59f12b13-23d2-11e8-a6a3-ec086b02610b.jpg,empty,1,animal,0.5195,True,False,False,empty,False,false_positive
+data\raw\sample_images\empty__5a1e5306-23d2-11e8-a6a3-ec086b02610b.jpg,empty,1,animal,0.6488,True,False,False,empty,False,false_positive
+data\raw\sample_images\empty__5a2af546-23d2-11e8-a6a3-ec086b02610b.jpg,empty,1,animal,0.523,True,False,False,empty,False,false_positive
+data\raw\sample_images\raccoon__598c5c32-23d2-11e8-a6a3-ec086b02610b.jpg,raccoon,0,empty,0.0,False,False,False,animal,False,false_negative

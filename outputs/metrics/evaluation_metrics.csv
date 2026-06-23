@@ -1,0 +1,4 @@
+class,true_positive,false_positive,false_negative,precision,recall,f1_score
+animal,27,8,3,0.7714,0.9,0.8308
+vehicle,10,0,0,1.0,1.0,1.0
+empty,12,3,8,0.8,0.6,0.6857

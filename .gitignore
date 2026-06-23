@@ -1,0 +1,11 @@
+data/raw/
+data/processed/
+data/annotations/
+outputs/predictions/
+outputs/metrics/
+outputs/error_examples/
+models/
+venv/
+.venv/
+__pycache__/
+*.pyc

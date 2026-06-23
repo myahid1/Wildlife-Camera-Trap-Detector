@@ -290,5 +290,6 @@ This project demonstrates an applied deep learning workflow for wildlife camera-
 Using MegaDetector, I built a pipeline that can detect animals, vehicles, and empty frames, evaluate performance, tune confidence thresholds, and analyse failure cases.
 
 The project shows how pretrained deep learning models can be used in practical conservation workflows where large volumes of camera-trap images need to be filtered efficiently.
-#   W i l d l i f e - C a m e r a - T r a p - D e t e c t o r  
+#   W i l d l i f e - C a m e r a - T r a p - D e t e c t o r 
+ 
  

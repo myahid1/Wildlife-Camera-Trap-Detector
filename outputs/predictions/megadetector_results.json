@@ -1,0 +1,1279 @@
+{
+    "annotations": [
+        {
+            "img_id": "data\\raw\\sample_images\\bird__59a49a6d-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [
+                [
+                    557,
+                    787,
+                    691,
+                    976
+                ],
+                [
+                    0,
+                    1056,
+                    80,
+                    1211
+                ],
+                [
+                    897,
+                    1019,
+                    939,
+                    1124
+                ]
+            ],
+            "category": [
+                0,
+                0,
+                0
+            ],
+            "confidence": [
+                0.5639085173606873,
+                0.33234497904777527,
+                0.3023626506328583
+            ]
+        },
+        {
+            "img_id": "data\\raw\\sample_images\\bird__5a062f10-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [
+                [
+                    776,
+                    301,
+                    1664,
+                    1235
+                ]
+            ],
+            "category": [
+                0
+            ],
+            "confidence": [
+                0.27458643913269043
+            ]
+        },
+        {
+            "img_id": "data\\raw\\sample_images\\car__598de88f-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [
+                [
+                    1065,
+                    0,
+                    2047,
+                    819
+                ],
+                [
+                    0,
+                    0,
+                    1010,
+                    924
+                ]
+            ],
+            "category": [
+                2,
+                2
+            ],
+            "confidence": [
+                0.7292342782020569,
+                0.7141803503036499
+            ]
+        },
+        {
+            "img_id": "data\\raw\\sample_images\\car__598dea48-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [
+                [
+                    1041,
+                    3,
+                    2047,
+                    992
+                ]
+            ],
+            "category": [
+                2
+            ],
+            "confidence": [
+                0.508129358291626
+            ]
+        },
+        {
+            "img_id": "data\\raw\\sample_images\\car__59af972d-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [
+                [
+                    1307,
+                    8,
+                    2559,
+                    1163
+                ],
+                [
+                    0,
+                    1,
+                    1249,
+                    1164
+                ]
+            ],
+            "category": [
+                2,
+                2
+            ],
+            "confidence": [
+                0.8517078757286072,
+                0.5653521418571472
+            ]
+        },
+        {
+            "img_id": "data\\raw\\sample_images\\car__59d419c9-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [
+                [
+                    1045,
+                    4,
+                    2047,
+                    991
+                ],
+                [
+                    0,
+                    0,
+                    1002,
+                    849
+                ]
+            ],
+            "category": [
+                2,
+                2
+            ],
+            "confidence": [
+                0.7716920375823975,
+                0.6995051503181458
+            ]
+        },
+        {
+            "img_id": "data\\raw\\sample_images\\car__59d8eae2-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [
+                [
+                    1037,
+                    21,
+                    2047,
+                    955
+                ]
+            ],
+            "category": [
+                2
+            ],
+            "confidence": [
+                0.6674394011497498
+            ]
+        },
+        {
+            "img_id": "data\\raw\\sample_images\\car__59f798ba-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [
+                [
+                    0,
+                    3,
+                    895,
+                    924
+                ]
+            ],
+            "category": [
+                2
+            ],
+            "confidence": [
+                0.8495201468467712
+            ]
+        },
+        {
+            "img_id": "data\\raw\\sample_images\\car__59ffba76-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [
+                [
+                    0,
+                    126,
+                    995,
+                    993
+                ],
+                [
+                    280,
+                    270,
+                    1245,
+                    992
+                ]
+            ],
+            "category": [
+                2,
+                2
+            ],
+            "confidence": [
+                0.5953044891357422,
+                0.24784217774868011
+            ]
+        },
+        {
+            "img_id": "data\\raw\\sample_images\\car__5a063197-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [
+                [
+                    1047,
+                    3,
+                    2047,
+                    727
+                ],
+                [
+                    0,
+                    15,
+                    1000,
+                    786
+                ]
+            ],
+            "category": [
+                2,
+                2
+            ],
+            "confidence": [
+                0.5444544553756714,
+                0.3110218942165375
+            ]
+        },
+        {
+            "img_id": "data\\raw\\sample_images\\car__5a096955-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [
+                [
+                    1052,
+                    134,
+                    2047,
+                    1078
+                ],
+                [
+                    0,
+                    91,
+                    999,
+                    1022
+                ]
+            ],
+            "category": [
+                2,
+                2
+            ],
+            "confidence": [
+                0.8823061585426331,
+                0.6989714503288269
+            ]
+        },
+        {
+            "img_id": "data\\raw\\sample_images\\car__5a13096b-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [
+                [
+                    1042,
+                    0,
+                    2048,
+                    933
+                ],
+                [
+                    0,
+                    0,
+                    1007,
+                    960
+                ]
+            ],
+            "category": [
+                2,
+                2
+            ],
+            "confidence": [
+                0.9082971215248108,
+                0.7696306109428406
+            ]
+        },
+        {
+            "img_id": "data\\raw\\sample_images\\cat__5976a3a9-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [
+                [
+                    23,
+                    921,
+                    448,
+                    1208
+                ],
+                [
+                    946,
+                    651,
+                    1030,
+                    845
+                ]
+            ],
+            "category": [
+                0,
+                0
+            ],
+            "confidence": [
+                0.7923694849014282,
+                0.7643367648124695
+            ]
+        },
+        {
+            "img_id": "data\\raw\\sample_images\\cat__59b93afb-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [
+                [
+                    0,
+                    903,
+                    590,
+                    1292
+                ]
+            ],
+            "category": [
+                0
+            ],
+            "confidence": [
+                0.9340469241142273
+            ]
+        },
+        {
+            "img_id": "data\\raw\\sample_images\\cat__5a0b01f5-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [
+                [
+                    911,
+                    576,
+                    1013,
+                    897
+                ],
+                [
+                    1291,
+                    1246,
+                    1465,
+                    1428
+                ]
+            ],
+            "category": [
+                0,
+                0
+            ],
+            "confidence": [
+                0.8919944167137146,
+                0.25043514370918274
+            ]
+        },
+        {
+            "img_id": "data\\raw\\sample_images\\coyote__59673655-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [
+                [
+                    1497,
+                    839,
+                    1807,
+                    1331
+                ]
+            ],
+            "category": [
+                0
+            ],
+            "confidence": [
+                0.9598795175552368
+            ]
+        },
+        {
+            "img_id": "data\\raw\\sample_images\\coyote__5a17dd15-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [
+                [
+                    1201,
+                    648,
+                    1409,
+                    1458
+                ]
+            ],
+            "category": [
+                0
+            ],
+            "confidence": [
+                0.9397424459457397
+            ]
+        },
+        {
+            "img_id": "data\\raw\\sample_images\\deer__5971fb64-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [
+                [
+                    284,
+                    30,
+                    1083,
+                    1010
+                ]
+            ],
+            "category": [
+                0
+            ],
+            "confidence": [
+                0.960831880569458
+            ]
+        },
+        {
+            "img_id": "data\\raw\\sample_images\\deer__599a5a64-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [
+                [
+                    395,
+                    30,
+                    1131,
+                    1016
+                ]
+            ],
+            "category": [
+                0
+            ],
+            "confidence": [
+                0.9531610012054443
+            ]
+        },
+        {
+            "img_id": "data\\raw\\sample_images\\deer__59aadbcf-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [
+                [
+                    1518,
+                    442,
+                    2048,
+                    1054
+                ],
+                [
+                    997,
+                    329,
+                    1110,
+                    610
+                ]
+            ],
+            "category": [
+                0,
+                0
+            ],
+            "confidence": [
+                0.9516667127609253,
+                0.42229652404785156
+            ]
+        },
+        {
+            "img_id": "data\\raw\\sample_images\\deer__59c80528-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [
+                [
+                    186,
+                    509,
+                    1177,
+                    1291
+                ],
+                [
+                    426,
+                    694,
+                    1343,
+                    1228
+                ]
+            ],
+            "category": [
+                0,
+                0
+            ],
+            "confidence": [
+                0.7325064539909363,
+                0.24382290244102478
+            ]
+        },
+        {
+            "img_id": "data\\raw\\sample_images\\deer__59fe2293-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [],
+            "category": [],
+            "confidence": []
+        },
+        {
+            "img_id": "data\\raw\\sample_images\\deer__5a0b016f-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [
+                [
+                    1382,
+                    567,
+                    1641,
+                    999
+                ],
+                [
+                    477,
+                    32,
+                    1460,
+                    1010
+                ]
+            ],
+            "category": [
+                0,
+                0
+            ],
+            "confidence": [
+                0.7013224959373474,
+                0.46128225326538086
+            ]
+        },
+        {
+            "img_id": "data\\raw\\sample_images\\deer__5a217843-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [
+                [
+                    286,
+                    429,
+                    946,
+                    1220
+                ]
+            ],
+            "category": [
+                0
+            ],
+            "confidence": [
+                0.9658588767051697
+            ]
+        },
+        {
+            "img_id": "data\\raw\\sample_images\\dog__5a2176e7-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [
+                [
+                    1750,
+                    736,
+                    2043,
+                    1013
+                ]
+            ],
+            "category": [
+                0
+            ],
+            "confidence": [
+                0.8944343328475952
+            ]
+        },
+        {
+            "img_id": "data\\raw\\sample_images\\empty__5968c0f9-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [
+                [
+                    228,
+                    1259,
+                    527,
+                    1492
+                ]
+            ],
+            "category": [
+                0
+            ],
+            "confidence": [
+                0.7121286392211914
+            ]
+        },
+        {
+            "img_id": "data\\raw\\sample_images\\empty__5987b4a8-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [
+                [
+                    1340,
+                    1295,
+                    1460,
+                    1356
+                ]
+            ],
+            "category": [
+                0
+            ],
+            "confidence": [
+                0.25256913900375366
+            ]
+        },
+        {
+            "img_id": "data\\raw\\sample_images\\empty__5998cc43-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [
+                [
+                    229,
+                    514,
+                    357,
+                    649
+                ],
+                [
+                    1881,
+                    757,
+                    2046,
+                    1065
+                ],
+                [
+                    226,
+                    515,
+                    404,
+                    651
+                ]
+            ],
+            "category": [
+                0,
+                0,
+                0
+            ],
+            "confidence": [
+                0.601652979850769,
+                0.2265782654285431,
+                0.20946387946605682
+            ]
+        },
+        {
+            "img_id": "data\\raw\\sample_images\\empty__5998ce2d-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [
+                [
+                    231,
+                    517,
+                    386,
+                    659
+                ]
+            ],
+            "category": [
+                0
+            ],
+            "confidence": [
+                0.6287738680839539
+            ]
+        },
+        {
+            "img_id": "data\\raw\\sample_images\\empty__59af975f-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [
+                [
+                    835,
+                    500,
+                    921,
+                    612
+                ]
+            ],
+            "category": [
+                0
+            ],
+            "confidence": [
+                0.25076228380203247
+            ]
+        },
+        {
+            "img_id": "data\\raw\\sample_images\\empty__59b12f67-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [
+                [
+                    898,
+                    837,
+                    1011,
+                    977
+                ],
+                [
+                    1105,
+                    27,
+                    1617,
+                    538
+                ]
+            ],
+            "category": [
+                0,
+                0
+            ],
+            "confidence": [
+                0.33238375186920166,
+                0.20563656091690063
+            ]
+        },
+        {
+            "img_id": "data\\raw\\sample_images\\empty__59b4864f-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [
+                [
+                    203,
+                    517,
+                    452,
+                    848
+                ],
+                [
+                    1060,
+                    1079,
+                    1101,
+                    1142
+                ],
+                [
+                    202,
+                    519,
+                    336,
+                    844
+                ]
+            ],
+            "category": [
+                0,
+                0,
+                0
+            ],
+            "confidence": [
+                0.34816473722457886,
+                0.2565457224845886,
+                0.23903875052928925
+            ]
+        },
+        {
+            "img_id": "data\\raw\\sample_images\\empty__59b93a3c-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [
+                [
+                    319,
+                    1159,
+                    646,
+                    1449
+                ]
+            ],
+            "category": [
+                0
+            ],
+            "confidence": [
+                0.522552490234375
+            ]
+        },
+        {
+            "img_id": "data\\raw\\sample_images\\empty__59be3e9d-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [],
+            "category": [],
+            "confidence": []
+        },
+        {
+            "img_id": "data\\raw\\sample_images\\empty__59cb3a1e-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [
+                [
+                    1839,
+                    1100,
+                    2008,
+                    1276
+                ],
+                [
+                    203,
+                    524,
+                    326,
+                    739
+                ],
+                [
+                    957,
+                    664,
+                    1009,
+                    763
+                ],
+                [
+                    202,
+                    523,
+                    331,
+                    772
+                ]
+            ],
+            "category": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "confidence": [
+                0.4143788814544678,
+                0.29468148946762085,
+                0.2732604444026947,
+                0.24091607332229614
+            ]
+        },
+        {
+            "img_id": "data\\raw\\sample_images\\empty__59d0e29b-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [
+                [
+                    671,
+                    554,
+                    738,
+                    666
+                ]
+            ],
+            "category": [
+                0
+            ],
+            "confidence": [
+                0.29050666093826294
+            ]
+        },
+        {
+            "img_id": "data\\raw\\sample_images\\empty__59d7531b-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [
+                [
+                    165,
+                    526,
+                    317,
+                    759
+                ],
+                [
+                    166,
+                    644,
+                    296,
+                    760
+                ],
+                [
+                    1715,
+                    1096,
+                    1881,
+                    1180
+                ],
+                [
+                    1745,
+                    487,
+                    2046,
+                    966
+                ]
+            ],
+            "category": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "confidence": [
+                0.41611719131469727,
+                0.38901033997535706,
+                0.22117169201374054,
+                0.20011365413665771
+            ]
+        },
+        {
+            "img_id": "data\\raw\\sample_images\\empty__59ddc31b-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [
+                [
+                    1849,
+                    449,
+                    1948,
+                    567
+                ],
+                [
+                    1703,
+                    534,
+                    1796,
+                    658
+                ]
+            ],
+            "category": [
+                0,
+                0
+            ],
+            "confidence": [
+                0.6098319292068481,
+                0.5152086019515991
+            ]
+        },
+        {
+            "img_id": "data\\raw\\sample_images\\empty__59ec52e5-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [
+                [
+                    235,
+                    517,
+                    346,
+                    643
+                ],
+                [
+                    232,
+                    517,
+                    389,
+                    647
+                ]
+            ],
+            "category": [
+                0,
+                0
+            ],
+            "confidence": [
+                0.4630175828933716,
+                0.22531816363334656
+            ]
+        },
+        {
+            "img_id": "data\\raw\\sample_images\\empty__59ec53fd-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [
+                [
+                    1526,
+                    658,
+                    1608,
+                    845
+                ]
+            ],
+            "category": [
+                0
+            ],
+            "confidence": [
+                0.34959763288497925
+            ]
+        },
+        {
+            "img_id": "data\\raw\\sample_images\\empty__59f12b13-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [
+                [
+                    237,
+                    520,
+                    341,
+                    629
+                ]
+            ],
+            "category": [
+                0
+            ],
+            "confidence": [
+                0.5194548964500427
+            ]
+        },
+        {
+            "img_id": "data\\raw\\sample_images\\empty__59fe2178-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [
+                [
+                    1602,
+                    1138,
+                    1741,
+                    1189
+                ],
+                [
+                    910,
+                    399,
+                    992,
+                    573
+                ]
+            ],
+            "category": [
+                0,
+                0
+            ],
+            "confidence": [
+                0.2827235460281372,
+                0.2781824767589569
+            ]
+        },
+        {
+            "img_id": "data\\raw\\sample_images\\empty__5a14a755-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [
+                [
+                    1958,
+                    811,
+                    2047,
+                    1034
+                ],
+                [
+                    1893,
+                    684,
+                    2048,
+                    1040
+                ]
+            ],
+            "category": [
+                0,
+                0
+            ],
+            "confidence": [
+                0.2457597255706787,
+                0.2040247917175293
+            ]
+        },
+        {
+            "img_id": "data\\raw\\sample_images\\empty__5a1e5306-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [
+                [
+                    0,
+                    1364,
+                    120,
+                    1494
+                ]
+            ],
+            "category": [
+                0
+            ],
+            "confidence": [
+                0.6488023996353149
+            ]
+        },
+        {
+            "img_id": "data\\raw\\sample_images\\empty__5a2af546-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [
+                [
+                    0,
+                    24,
+                    907,
+                    834
+                ],
+                [
+                    974,
+                    1043,
+                    1069,
+                    1145
+                ],
+                [
+                    1857,
+                    1031,
+                    1964,
+                    1205
+                ]
+            ],
+            "category": [
+                0,
+                0,
+                0
+            ],
+            "confidence": [
+                0.5230176448822021,
+                0.4837215542793274,
+                0.35542160272598267
+            ]
+        },
+        {
+            "img_id": "data\\raw\\sample_images\\fox__59c4bfa5-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [
+                [
+                    993,
+                    847,
+                    1888,
+                    1491
+                ]
+            ],
+            "category": [
+                0
+            ],
+            "confidence": [
+                0.6410175561904907
+            ]
+        },
+        {
+            "img_id": "data\\raw\\sample_images\\opossum__59641f56-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [
+                [
+                    296,
+                    685,
+                    561,
+                    964
+                ],
+                [
+                    537,
+                    590,
+                    679,
+                    685
+                ]
+            ],
+            "category": [
+                0,
+                0
+            ],
+            "confidence": [
+                0.8635635375976562,
+                0.30748429894447327
+            ]
+        },
+        {
+            "img_id": "data\\raw\\sample_images\\opossum__59c8031c-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [
+                [
+                    267,
+                    737,
+                    526,
+                    884
+                ]
+            ],
+            "category": [
+                0
+            ],
+            "confidence": [
+                0.7724227905273438
+            ]
+        },
+        {
+            "img_id": "data\\raw\\sample_images\\opossum__59e919aa-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [
+                [
+                    935,
+                    617,
+                    1148,
+                    784
+                ]
+            ],
+            "category": [
+                0
+            ],
+            "confidence": [
+                0.7979081869125366
+            ]
+        },
+        {
+            "img_id": "data\\raw\\sample_images\\opossum__5a1cb0d8-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [
+                [
+                    1166,
+                    502,
+                    1298,
+                    685
+                ]
+            ],
+            "category": [
+                0
+            ],
+            "confidence": [
+                0.8200621008872986
+            ]
+        },
+        {
+            "img_id": "data\\raw\\sample_images\\rabbit__59b93a3b-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [
+                [
+                    2,
+                    767,
+                    726,
+                    1493
+                ],
+                [
+                    584,
+                    315,
+                    641,
+                    475
+                ]
+            ],
+            "category": [
+                0,
+                0
+            ],
+            "confidence": [
+                0.8869724869728088,
+                0.2106245458126068
+            ]
+        },
+        {
+            "img_id": "data\\raw\\sample_images\\rabbit__59e91a9f-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [
+                [
+                    1492,
+                    446,
+                    1602,
+                    617
+                ]
+            ],
+            "category": [
+                0
+            ],
+            "confidence": [
+                0.6745331883430481
+            ]
+        },
+        {
+            "img_id": "data\\raw\\sample_images\\rabbit__5a116d59-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [
+                [
+                    1793,
+                    842,
+                    2042,
+                    1478
+                ]
+            ],
+            "category": [
+                0
+            ],
+            "confidence": [
+                0.9116402268409729
+            ]
+        },
+        {
+            "img_id": "data\\raw\\sample_images\\raccoon__598c5c32-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [
+                [
+                    1501,
+                    809,
+                    2046,
+                    1491
+                ]
+            ],
+            "category": [
+                0
+            ],
+            "confidence": [
+                0.3150392770767212
+            ]
+        },
+        {
+            "img_id": "data\\raw\\sample_images\\raccoon__598de824-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [
+                [
+                    1024,
+                    798,
+                    1580,
+                    1078
+                ],
+                [
+                    1521,
+                    837,
+                    2046,
+                    1131
+                ]
+            ],
+            "category": [
+                0,
+                0
+            ],
+            "confidence": [
+                0.9272974133491516,
+                0.8266505002975464
+            ]
+        },
+        {
+            "img_id": "data\\raw\\sample_images\\raccoon__59e919e9-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [
+                [
+                    1,
+                    761,
+                    360,
+                    1083
+                ]
+            ],
+            "category": [
+                0
+            ],
+            "confidence": [
+                0.8904361128807068
+            ]
+        },
+        {
+            "img_id": "data\\raw\\sample_images\\rodent__59a17d7f-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [
+                [
+                    113,
+                    1206,
+                    477,
+                    1410
+                ]
+            ],
+            "category": [
+                0
+            ],
+            "confidence": [
+                0.7790532112121582
+            ]
+        },
+        {
+            "img_id": "data\\raw\\sample_images\\rodent__59be3ee3-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [
+                [
+                    210,
+                    1057,
+                    652,
+                    1352
+                ]
+            ],
+            "category": [
+                0
+            ],
+            "confidence": [
+                0.7611140608787537
+            ]
+        },
+        {
+            "img_id": "data\\raw\\sample_images\\rodent__59ccd2b3-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [
+                [
+                    703,
+                    1125,
+                    1088,
+                    1254
+                ]
+            ],
+            "category": [
+                0
+            ],
+            "confidence": [
+                0.8724267482757568
+            ]
+        },
+        {
+            "img_id": "data\\raw\\sample_images\\skunk__5973880a-23d2-11e8-a6a3-ec086b02610b.jpg",
+            "bbox": [
+                [
+                    1425,
+                    724,
+                    1926,
+                    1420
+                ]
+            ],
+            "category": [
+                0
+            ],
+            "confidence": [
+                0.9416122436523438
+            ]
+        }
+    ],
+    "categories": {
+        "0": "animal",
+        "1": "person",
+        "2": "vehicle"
+    }
+}
